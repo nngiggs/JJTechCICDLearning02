@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=JavaWebApp \
+  -Dsonar.host.url=http://172.31.26.28:9000 \
+  -Dsonar.login=90eb31d4971dff09d61ab628b5f65f5474bfca7e
